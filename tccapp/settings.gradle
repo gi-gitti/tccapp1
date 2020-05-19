@@ -1,0 +1,2 @@
+rootProject.name='tccapp'
+include ':app'
